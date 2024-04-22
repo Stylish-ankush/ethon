@@ -1,8 +1,5 @@
-ethon
+ethon-x-69
 =====
-
-• Telegram_
-• Github_
 
 install
 =======
